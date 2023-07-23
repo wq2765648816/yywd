@@ -1,5 +1,6 @@
 <template>
   <div class="box">1</div>
+  <router-view></router-view>
   <!-- ctrl + i 提示 -->
   <van-button type="primary">点击</van-button>
   <van-button type="success">带年纪</van-button>
